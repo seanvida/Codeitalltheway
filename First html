@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<HTML>
+  <head>
+  <title> CompanionToHills! </title>
+  </head>
+
+  <body>
+  <p> Hello Folks, this is Rohit Khurana, I am trying to learn how to build my first website on html. In case you are interested let me know! </p>
+<h1> This is HTML learning module1! </H1>
+<a href= "https://www.facebook.com/amani.gupta?fref=ts"><right><h2> Click Me! </H2></right></a>
+<p> First thing is to understand the syntax, whichg is easy to know. Once done with that we can move to higher modules! </p>
+<h2> This is HTML learning module2! </H2>
+<a href= "https://www.facebook.com/jjjjkhjk"><left><h2> Click Me! </H2></left></a>
+<h4> Part1! </h4>
+<a href= "https://www.facebook.com/friendship/jjjjkhjk/amani.gupta/"target="_blank""><left> <img src= "gg.jpg" width="1400" height="800"> </img> </left></a>
+  </body>
+</HTML>
+
